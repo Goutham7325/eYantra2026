@@ -1,0 +1,6 @@
+
+State Machine - |t2c_maze_explorer|state
+Name state.IDLE state.MOVE state.DECIDE 
+state.IDLE 0 0 0 
+state.DECIDE 1 0 1 
+state.MOVE 1 1 0 
