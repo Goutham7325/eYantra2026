@@ -10,7 +10,24 @@ This project aims to design an autonomous robot capable of navigating and solvin
 The FPGA manages sensor data acquisition, motor control, communication, and maze-solving algorithms through dedicated hardware modules designed in Verilog.
 
 ---
+## 📂 Repository Structure
 
+```text
+eYantra2026/
+├── mb_1103_task1a/
+│   └── t1a_fs_pwm/          # PWM generation module
+├── mb_1103_task1b/
+│   └── t1b_ultrasonic/      # HC-SR04 ultrasonic sensor interface
+├── mb_1103_task1c/
+│   └── t1c_riscv_cpu/       # Single Cycle RV32I RISC-V Processor
+├── mb_1103_task2b/
+│   └── t2b_uart/            # UART Transmitter and Receiver
+├── mb_1103_task3b/          # Task 3B implementation
+├── t2c_maze_explorer/       # Autonomous maze exploration algorithm
+├── mb_1103_task3a.png       # Hardware/System architecture image
+└── README.md                # Project documentation
+```
+---
 ## ✨ Features
 
 - 📡 UART Communication Module
