@@ -28,6 +28,35 @@ eYantra2026/
 └── README.md                # Project documentation
 ```
 ---
+
+### Bot Picture
+
+<table>
+<tr>
+<td align="center">
+<img width="899" height="596" alt="front_view" src="https://github.com/user-attachments/assets/4a612810-a0ba-466a-9210-9d60a81194fc" /><br>
+<b>Front View</b><br>
+Ultrasonic sensor, IR sensors
+</td>
+
+<td align="center">
+<img width="891" height="559" alt="side_view" src="https://github.com/user-attachments/assets/b3fc148a-a9b9-4965-8755-bcd52a75ecb2" /><br>
+<b>Side View</b><br>
+Motor driver, wheels
+</td>
+
+<td align="center">
+<img width="827" height="822" alt="top_view" src="https://github.com/user-attachments/assets/5c4ee2f7-fb97-427d-bf53-80662aa64006" /><br>
+<b>Top View</b><br>
+FPGA board, battery, wiring
+</td>
+</tr>
+</table>
+
+
+### Maze View
+<img width="2003" height="1685" alt="mb_1103_task3a" src="https://github.com/user-attachments/assets/880beba5-ebee-4d7f-a262-8a49347c8092" />
+
 ## ✨ Features
 
 - 📡 UART Communication Module
