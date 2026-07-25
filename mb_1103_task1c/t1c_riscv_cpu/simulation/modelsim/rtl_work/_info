@@ -1,0 +1,419 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1760050663
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_f?UJlQfVi2i2iCY3`j[o0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1758459260
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v
+!i122 14
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1760050663.000000
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work {+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components}
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 dDAKIZOB^[3JE3BfW5lmJ3
+R2
+I@aQd4@PdCz3=EA>>S`nGB0
+R3
+R0
+w1760050562
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v
+!i122 13
+L0 12 38
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v|
+!i113 1
+R7
+R8
+R9
+valu_decoder
+R1
+!i10b 1
+!s100 ba9eW@K[FT0EFmGLm=Rbh0
+R2
+IgQOb_A:PjZ;3PcSLG[0eb2
+R3
+R0
+w1760050364
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v
+!i122 12
+L0 11 37
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+R1
+!i10b 1
+!s100 fE3>oOFz@M:j37fbQZ7lO2
+R2
+I3;TW[P94=QCzX5LM`ai810
+R3
+R0
+w1760050419
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v
+!i122 11
+L0 11 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+Z10 !s110 1760050662
+!i10b 1
+!s100 CcU3=`;S5V62Bmk;@ReLX3
+R2
+IlS]hIc0AgQUNOG>IFLL1A3
+R3
+R0
+w1760050552
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v
+!i122 2
+L0 11 63
+R5
+r1
+!s85 0
+31
+Z11 !s108 1760050662.000000
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v|
+!i113 1
+R7
+Z12 !s92 -vlog01compat -work work {+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code}
+R9
+vdatapath
+R1
+!i10b 1
+!s100 X?FM7CNXF<5GfeKne>L>g1
+R2
+IkKon4hFALLEP_H;09^0Zc0
+R3
+R0
+w1760050454
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v
+!i122 10
+L0 10 45
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R1
+!i10b 1
+!s100 KCY0HN8a_SDDT@o^3341e2
+R2
+I_8G?NiSID_AOJ;ebMHTnz3
+R3
+R0
+R4
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v
+!i122 9
+L0 3 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+Z13 !s110 1760050664
+!i10b 1
+!s100 _2]cbk6YNQ9ECcKm2oV;A0
+R2
+Ilb=eWZA0h3_QUN4;HKE_`0
+R3
+R0
+w1758703332
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v
+!i122 15
+L0 4 18
+R5
+r1
+!s85 0
+31
+Z14 !s108 1760050664.000000
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v|
+!i113 1
+R7
+R12
+R9
+vmain_decoder
+R1
+!i10b 1
+!s100 Y2dQ>n2ZQN[IdlD3Wo@BY1
+R2
+IO_3JdU@K=SC95H;mg_c011
+R3
+R0
+w1760050509
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v
+!i122 8
+L0 11 41
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vmux2
+R1
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+I@ZY^Fc=J@>dQi:hVN0fmg3
+R3
+R0
+R4
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v
+!i122 7
+Z15 L0 4 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux3
+R10
+!i10b 1
+!s100 fShz_RzH66YN6G@4dH?@Y3
+R2
+IN]MP02FH2GZh_MJg>3CeK0
+R3
+R0
+R4
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux3.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux3.v
+!i122 6
+R15
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux3.v|
+!i113 1
+R7
+R8
+R9
+vmux4
+R10
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+IXZn2hoJncLTE:PNV`R60=3
+R3
+R0
+R4
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v
+!i122 5
+R15
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R10
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+IdbfJUQ>beWPDhdS1kgnem0
+R3
+R0
+R4
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v
+!i122 4
+L0 8 27
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R10
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+I?Zd]5am^=zUi6?lUfCL7M3
+R3
+R0
+R4
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v
+!i122 3
+L0 4 12
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+R10
+!i10b 1
+!s100 jU^TakKlPU<JFm]e1OQQg0
+R2
+I_;DO2VW9:YF^HSgQ9hfQO2
+R3
+R0
+w1759334708
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v
+!i122 1
+L0 4 24
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vt1c_riscv_cpu
+R10
+!i10b 1
+!s100 _06EPmW0mYWo69XjmhmhY3
+R2
+IYV]@6;L5HBjIVNg;AEJM@3
+R3
+R0
+w1758714941
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+!i122 0
+L0 4 25
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vtb
+R13
+!i10b 1
+!s100 3lMj:0B^XkCNJJiBLB9Bo0
+R2
+I[bB=36SjHaai;cg3Y7MRC2
+R3
+R0
+w1758697116
+8C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v
+FC:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v
+!i122 16
+L0 3 532
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/.test|C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work {+incdir+C:/Users/gouth/OneDrive/Desktop/Goutham General/eyantra 2025/t1c_riscv_cpu/t1c_riscv_cpu/.test}
+R9

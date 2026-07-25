@@ -1,0 +1,7 @@
+
+State Machine - |t1b_ultrasonic|state
+Name state.waite state.measure state.trigger state.idle 
+state.idle 0 0 0 0 
+state.trigger 0 0 1 1 
+state.measure 0 1 0 1 
+state.waite 1 0 0 1 

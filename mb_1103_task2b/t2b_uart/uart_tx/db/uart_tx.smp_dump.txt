@@ -1,0 +1,5 @@
+
+State Machine - |uart_tx|state
+Name state.transmit 
+state.idle 0 
+state.transmit 1 

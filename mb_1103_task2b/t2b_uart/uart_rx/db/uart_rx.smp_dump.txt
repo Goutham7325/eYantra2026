@@ -1,0 +1,6 @@
+
+State Machine - |uart_rx|state
+Name state.idle state.receive state.start 
+state.idle 0 0 0 
+state.start 1 0 1 
+state.receive 1 1 0 
