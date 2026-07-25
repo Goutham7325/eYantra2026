@@ -37,16 +37,6 @@ The FPGA manages sensor data acquisition, motor control, communication, and maze
 
 ---
 
-## ⚙️ Processor Specifications
-
-| Feature | Specification |
-|---------|---------------|
-| ISA | RV32I |
-| Language | Verilog HDL |
-| Instruction Memory | 2 MB |
-| Data Memory | 256 Bytes |
-| Verification | Verilog Testbench |
-
 
 ## 🧠 Maze Solving Strategy
 
