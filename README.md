@@ -2,6 +2,9 @@
 
 An autonomous maze-solving robot developed as part of the **e-Yantra Robotics Competition 2026**. 
 The robot has a Verilog coded Maze Solving Algorithm ( Modified Left/Right Wall ) with Sensor interfaces, Motor Controller
+- Stage 1 Completed ( Top 100 from ~1000 teams ) ( Highest score in Maze Solving Algo )
+- Stage 2 Completed except Last Task ( Complete maze solving + Soil Mpisture testing with DHT11 with atmost 3 assists )
+- Finals ( Top 5 out of 100 ) Not selected
 ---
 
 ## 📌 Overview
